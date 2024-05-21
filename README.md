@@ -2,7 +2,7 @@
 ![image](https://github.com/ToobaMujahid/ToobaMujahid/assets/170396943/9b4cf4f9-e7c8-40e5-8d29-94ccdec3d459)
 
 
-                               Hey there, I'm ## Tooba Mujahid ![Coding GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fhello-face-8171815&psig=AOvVaw2wVy4eCXei2REM6RtShhIM&ust=1716366727714000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKjRx7-qnoYDFQAAAAAdAAAAABAo)
+                               Hey there, I'm ## Tooba Mujahid ![Coding GIF](https://iconscout.com/lottie-animation/hello-face-8171815)
  
 youtube subscribers youtube views followers followers views
 
