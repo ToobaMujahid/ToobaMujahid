@@ -1,6 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://[i.imgur.com/iXuL1HG.png]" height="175px"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/SyedHaiderAli1">Tooba Mujahid</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/ToobaMujahid">Tooba Mujahid</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@verticalsols"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
@@ -28,7 +27,7 @@
 
 <p align="left">
   <a href="https://www.youtube.com/@verticalsols"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
- <a href="https://www.linkedin.com/https://www.linkedin.com/in/tooba-mujahid/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/tooba-mujahid"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/https://www.facebook.com/tooba.mujahid"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook"/></a>
 </p>
 
