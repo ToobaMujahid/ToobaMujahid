@@ -18,7 +18,7 @@
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="[![GitHub Streak](https://streak-stats.demolab.com/?user=SyedHaiderAli1)](https://git.io/streak-stats)">
+  <a href="[![GitHub Streak](https://streak-stats.demolab.com/?user=ToobaMujahid)](https://git.io/streak-stats)">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1#version3"/>
   </a>
 </p>
@@ -89,25 +89,6 @@
         </tr>
     </tbody>
 </table>
-
-
-## 📈 Github Stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tooba Mujahid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SyedHaiderAli1&show_icons=true&count_private=true&hide=" /></a>
-</details>
-
-<details> 
-  <summary>💻 Most used languages</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tooba Mujahid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHaiderAli1&langs_count=10&layout=compact#" /></a>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-</details>
-
 
 
 -----
